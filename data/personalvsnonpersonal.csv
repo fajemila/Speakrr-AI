@@ -1,0 +1,238 @@
+Question                                          ,   Category
+What is your full name?                           ,  Personal: Identity-related
+Can you provide your date of birth?               ,   Personal: Biographical
+What is your phone number?                        ,   Personal: Contact information
+Tell me about your favorite hobbies.              ,   Personal: Personal preferences
+What is your mother's maiden name?                ,   Personal: Security-related
+Who won the FIFA World Cup in 2018?               ,   Non-Personal: General knowledge
+What is your favorite color?                      ,   Non-Personal: Opinion-based
+Describe your experience visiting a theme park.   ,   Non-Personal: Open-ended queries
+How are you today?                                ,  Non-Personal: Conversational prompts
+What is your username on the website?             ,   Personal: Identity-related
+Where were you born?                              ,   Personal: Biographical
+Do you have an email address?                     ,   Personal: Contact information
+What type of music do you enjoy?                  ,   Personal: Personal preferences
+What was your first pet's name?                   ,   Personal: Security-related
+Who painted the Mona Lisa?                        ,   Non-Personal: General knowledge
+Which is your favorite genre of movies?           ,   Non-Personal: Opinion-based
+What are your thoughts on climate change?         ,   Non-Personal: Open-ended queries
+Any plans for the weekend?                        ,   Non-Personal: Conversational prompts
+What is your unique identifier for this system?   ,   Personal: Identity-related
+What is your educational background?              ,   Personal: Biographical
+Can you provide your physical address?            ,   Personal: Contact information
+Tell me about your favorite sports.               ,   Personal: Personal preferences
+What was the name of your elementary school?      ,   Personal: Security-related
+Who discovered gravity?                           ,   Non-Personal: General knowledge
+What is your favorite cuisine?                    ,   Non-Personal: Opinion-based
+Describe your dream vacation destination.         ,   Non-Personal: Open-ended queries
+How was your day today?                           ,   Non-Personal: Conversational prompts
+What is your favorite book?                       ,   Personal: Personal preferences
+What is your social security number?              ,   Personal: Security-related
+Who was the first President of the United States? ,   Non-Personal: General knowledge
+Do you prefer tea or coffee?                      ,   Non-Personal: Opinion-based
+Describe your most memorable vacation.            ,   Non-Personal: Open-ended queries
+What are your plans for the evening?              ,   Non-Personal: Conversational prompts
+What is your current address?                     ,   Personal: Contact information
+What is your highest level of education completed?,    Personal: Biographical
+What is your favorite type of cuisine?            ,   Personal: Personal preferences
+What was the name of your first pet?              ,   Personal: Security-related
+Who wrote the play "Romeo and Juliet"?            ,    Non-Personal: General knowledge
+Do you enjoy watching sports?                     ,   Non-Personal: Opinion-based
+Tell me about a recent accomplishment you're proud of., Non-Personal: Open-ended queries
+How was your weekend?                                ,Non-Personal: Conversational prompts
+What is your username for the online platform?       , Personal: Identity-related
+When and where were you born?                        , Personal: Biographical
+Can you provide your email address?                  , Personal: Contact information
+What are your favorite outdoor activities?           ,Personal: Personal preferences
+What is the name of your favorite childhood friend?  , Personal: Security-related
+What is the capital city of France?                  , Non-Personal: General knowledge
+Which is your favorite genre of music?               ,Non-Personal: Opinion-based
+Tell me about a recent dream you had.                , Non-Personal: Open-ended queries
+Any interesting plans for the upcoming holiday?      ,Non-Personal: Conversational prompts
+What is your mother's maiden name?                   ,Personal: Identity-related
+What is your occupation?                             , Personal: Biographical
+What is your primary phone number?                   , Personal: Contact information
+What are your favorite TV shows?                     ,Personal: Personal preferences
+What is your favorite password?                      , Personal: Security-related
+Who invented the telephone?                          , Non-Personal: General knowledge
+Do you prefer beaches or mountains?                  ,Non-Personal: Opinion-based
+Describe your favorite childhood memory.             , Non-Personal: Open-ended queries
+How was your day at work/school?                     , Non-Personal: Conversational prompts
+What is your favorite movie?                         ,Personal: Personal preferences
+What was the name of your first pet?                 ,Personal: Security-related
+Who painted "Starry Night"?                          , Non-Personal: General knowledge
+Do you prefer cats or dogs?                          , Non-Personal: Opinion-based
+Describe your ideal vacation destination.            ,Non-Personal: Open-ended queries
+What are your plans for the weekend?                 ,Non-Personal: Conversational prompts
+What is your social media handle?                    , Personal: Identity-related
+When is your birthday?                               , Personal: Biographical
+Can you provide your emergency contact number?       , Personal: Contact information
+Tell me about your favorite cuisine.                 , Personal: Personal preferences
+What is the name of your favorite childhood toy?     , Personal: Security-related
+Who wrote the novel "Pride and Prejudice"?           ,  Non-Personal: General knowledge
+Do you enjoy playing musical instruments?            , Non-Personal: Opinion-based
+Share a memorable experience from your recent travels., Non-Personal: Open-ended queries
+How was your day so far?                              , Non-Personal: Conversational prompts
+What is your preferred username for this system?      , Personal: Identity-related
+Where did you grow up?                                , Personal: Biographical
+Can you provide an alternate email address?           , Personal: Contact information
+Tell me about your favorite sports team.              , Personal: Personal preferences
+What is the name of your favorite teacher?            , Personal: Security-related
+Who is the founder of Amazon?                         ,  Non-Personal: General knowledge
+Do you enjoy listening to podcasts?                   , Non-Personal: Opinion-based
+Describe a recent challenge you overcame.             , Non-Personal: Open-ended queries
+What are your plans for the upcoming holiday season?  , Non-Personal: Conversational prompts
+What is your preferred nickname?                      , Personal: Identity-related
+What is your current employment status?               , Personal: Biographical
+Can you provide your work phone number?               , Personal: Contact information
+Tell me about your favorite genre of books.           , Personal: Personal preferences
+What was the name of your first-grade teacher?        , Personal: Security-related
+Who is the current Chancellor of Germany?             ,  Non-Personal: General knowledge
+Do you enjoy hiking or swimming?                      , Non-Personal: Opinion-based
+Describe your favorite childhood game.                , Non-Personal: Open-ended queries
+How was your morning today?                           , Non-Personal: Conversational prompts
+What is your favorite TV series?                      , Personal: Personal preferences
+What was your childhood nickname?                     , Personal: Security-related
+Who discovered penicillin?                            , Non-Personal: General knowledge
+Do you prefer summer or winter?                       ,  Non-Personal: Opinion-based
+Describe your favorite holiday tradition.             , Non-Personal: Open-ended queries
+What are your plans for the upcoming weekend?         , Non-Personal: Conversational prompts
+What is your favorite social media platform?          ,  Personal: Identity-related
+What is your current city of residence?               ,  Personal: Biographical
+Can you provide an alternate phone number?            ,  Personal: Contact information
+Tell me about your favorite type of art.              ,  Personal: Personal preferences
+What is the name of your favorite fictional character?,  Personal: Security-related
+Who is the author of "To Kill a Mockingbird"?         ,  Non-Personal: General knowledge
+Do you enjoy playing video games?                     ,  Non-Personal: Opinion-based
+Share a memorable moment from your recent birthday.   , Non-Personal: Open-ended queries
+What are your plans for the evening?                  , Non-Personal: Conversational prompts
+What is your favorite online username?                ,  Personal: Identity-related
+Which city were you born in?                          ,  Personal: Biographical
+Can you provide your work email address?              ,  Personal: Contact information
+Tell me about your favorite type of cuisine.          ,  Personal: Personal preferences
+What is the name of your favorite childhood book?     ,  Personal: Security-related
+Who composed the Symphony No. 9 in D minor?           ,  Non-Personal: General knowledge
+Do you prefer action movies or romantic comedies?     , Non-Personal: Opinion-based
+Describe a recent adventure you had.                  ,  Non-Personal: Open-ended queries
+How was your day at school/work?                      ,  Non-Personal: Conversational prompts
+What is your preferred online gaming handle?          ,  Personal: Identity-related
+What is your current occupation?                      ,  Personal: Biographical
+Can you provide your home phone number?               ,  Personal: Contact information
+Tell me about your favorite form of exercise.         ,  Personal: Personal preferences
+What was the name of your favorite childhood game?    ,  Personal: Security-related
+Who discovered the theory of relativity?              ,   Non-Personal: General knowledge
+Do you enjoy cooking or eating out?                   ,  Non-Personal: Opinion-based
+Describe a recent accomplishment you're proud of.     ,  Non-Personal: Open-ended queries
+What are your plans for the upcoming holiday season?  , Non-Personal: Conversational prompts
+What is your preferred nickname among friends?        ,  Personal: Identity-related
+What is your current educational institution?         ,  Personal: Biographical
+Can you provide your mobile phone number?             ,  Personal: Contact information
+Tell me about your favorite type of music.            ,  Personal: Personal preferences
+What was the name of your favorite childhood movie?   ,  Personal: Security-related
+Who was the first person to walk on the moon?         ,   Non-Personal: General knowledge
+Do you enjoy gardening or painting?                   , Non-Personal: Opinion-based
+Describe your ideal weekend getaway.                  ,  Non-Personal: Open-ended queries
+How was your day spent with friends?                  ,  Non-Personal: Conversational prompts
+What is your favorite food?                           , Personal: Personal preferences
+What is your favorite color?                          , Personal: Personal preferences
+What is your favorite holiday destination?            , Personal: Personal preferences
+What is your favorite movie genre?                    , Personal: Personal preferences
+What is your favorite animal?                         , Personal: Personal preferences
+What is your favorite season?                         , Personal: Personal preferences
+What is your favorite music genre?                    , Personal: Personal preferences
+What is your favorite sports team?                    , Personal: Personal preferences
+What is your favorite book genre?                     , Personal: Personal preferences
+What is your favorite type of cuisine?                , Personal: Personal preferences
+What is your favorite social media platform?          , Personal: Personal preferences
+What is your favorite hobby?                          , Personal: Personal preferences
+What is your favorite TV show?                        , Personal: Personal preferences
+What is your favorite type of art?                    , Personal: Personal preferences
+What is your favorite form of exercise?               , Personal: Personal preferences
+What is your favorite type of weather?                , Personal: Personal preferences
+What is your favorite type of vehicle?                , Personal: Personal preferences
+What is your favorite type of dessert?                , Personal: Personal preferences
+What is your favorite type of movie?                  , Personal: Personal preferences
+What is your favorite type of clothing?               , Personal: Personal preferences
+What is your favorite type of technology?             , Personal: Personal preferences
+What is your favorite type of dance?                  , Personal: Personal preferences
+What is your favorite type of drink?                  , Personal: Personal preferences
+What is your favorite type of plant?                  , Personal: Personal preferences
+What is your favorite type of exercise?               , Personal: Personal preferences
+What is your favorite type of cuisine?                , Personal: Personal preferences
+What is your favorite type of holiday?                , Personal: Personal preferences
+What is your favorite type of music?                  , Personal: Personal preferences
+What is your favorite type of book?                   , Personal: Personal preferences
+What is your favorite type of game?                   , Personal: Personal preferences
+What is your favorite type of outdoor activity?       , Personal: Personal preferences
+What is your favorite type of indoor activity?        , Personal: Personal preferences
+What is your favorite type of transportation?         , Personal: Personal preferences
+What is your favorite type of weather?                , Personal: Personal preferences
+What is your favorite type of music instrument?       , Personal: Personal preferences
+What is your favorite type of vacation?               , Personal: Personal preferences
+What is your favorite type of art medium?             , Personal: Personal preferences
+What is your favorite type of cuisine?                , Personal: Personal preferences
+What is your favorite type of sport?                  , Personal: Personal preferences
+What is your favorite type of movie?                  , Personal: Personal preferences
+What is your favorite type of book genre?             , Personal: Personal preferences
+What is your favorite type of outdoor activity?       , Personal: Personal preferences
+What is your favorite type of indoor activity?        , Personal: Personal preferences
+What is your favorite type of clothing style?         , Personal: Personal preferences
+What is your favorite type of technology device?      , Personal: Personal preferences
+What is your favorite type of dance?                  , Personal: Personal preferences
+What is your favorite type of dessert?                , Personal: Personal preferences
+What is your favorite type of drink?                  , Personal: Personal preferences
+What is your favorite type of plant?                  , Personal: Personal preferences
+What is your favorite type of exercise?               , Personal: Personal preferences
+What is your favorite type of cuisine?                , Personal: Personal preferences
+What is your favorite type of holiday?                , Personal: Personal preferences
+What is your favorite type of music?                  , Personal: Personal preferences
+What is your favorite type of book?                   , Personal: Personal preferences
+What is your favorite type of game?                   , Personal: Personal preferences
+What is your favorite type of movie genre?            , Personal: Personal preferences
+What is your favorite type of transportation?         , Personal: Personal preferences
+What is your favorite type of weather?                , Personal: Personal preferences
+Who is your favorite author?                          , Non-Personal: Opinion-based
+What is your opinion on social media?                 , Non-Personal: Opinion-based
+What is your preferred mode of transportation?        , Non-Personal: Opinion-based
+What is your view on climate change?                  , Non-Personal: Opinion-based
+What is your favorite sports event?                   , Non-Personal: Opinion-based
+Who is your favorite actor/actress?                   , Non-Personal: Opinion-based
+What is your favorite genre of literature?            , Non-Personal: Opinion-based
+Who is your favorite musician/band?                   , Non-Personal: Opinion-based
+What is your favorite form of exercise?               , Non-Personal: Opinion-based
+What is your preferred method of relaxation?          , Non-Personal: Opinion-based
+What is your view on current political issues?        , Non-Personal: Opinion-based
+What is your favorite holiday tradition?              , Non-Personal: Opinion-based
+What is your opinion on artificial intelligence?      , Non-Personal: Opinion-based
+What is the capital of France?                        , Non-Personal: General knowledge
+Who painted the Mona Lisa?                            , Non-Personal: General knowledge
+What is the chemical symbol for gold?                 , Non-Personal: General knowledge
+What is the square root of 25?                        , Non-Personal: General knowledge
+Who is the current President of the United States?    , Non-Personal: General knowledge
+What is the tallest mountain in the world?            , Non-Personal: General knowledge
+What is the currency of Japan?                        , Non-Personal: General knowledge
+What is the largest planet in our solar system?       , Non-Personal: General knowledge
+What is the formula for calculating the area of a circle? , Non-Personal: General knowledge
+What is the national animal of Australia?             , Non-Personal: General knowledge
+Who directed the movie "The Shawshank Redemption"?    , Non-Personal: General knowledge
+What is the chemical formula for water?               , Non-Personal: General knowledge
+What is the boiling point of water in Celsius?        , Non-Personal: General knowledge
+Who is the author of "Harry Potter and the Philosopher's Stone"?,  Non-Personal: General knowledge
+What is the largest ocean in the world?               , Non-Personal: General knowledge
+Who discovered the theory of relativity?              , Non-Personal: General knowledge
+What is the formula for calculating the area of a triangle? , Non-Personal: General knowledge
+What is the capital of Brazil?                        , Non-Personal: General knowledge
+Who painted the famous artwork "The Starry Night"?    , Non-Personal: General knowledge
+What is the chemical symbol for oxygen?               , Non-Personal: General knowledge
+What is the square root of 144?                       , Non-Personal: General knowledge
+Who is the current Prime Minister of Canada?          , Non-Personal: General knowledge
+What is the deepest ocean trench?                     , Non-Personal: General knowledge
+What is the currency of Mexico?                       , Non-Personal: General knowledge
+What is the largest moon in our solar system?         , Non-Personal: General knowledge
+Who wrote the play "Romeo and Juliet"?                , Non-Personal: General knowledge
+What is the chemical formula for table salt?          , Non-Personal: General knowledge
+What is the freezing point of water in Fahrenheit?    , Non-Personal: General knowledge
+Who is the author of "Pride and Prejudice"?           , Non-Personal: General knowledge
+What is the smallest continent on Earth?              , Non-Personal: General knowledge
+Who discovered the law of gravity?                    , Non-Personal: General knowledge
+What is the formula for converting Celsius to Fahrenheit? , Non-Personal: General knowledge
