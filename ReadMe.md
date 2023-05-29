@@ -12,7 +12,7 @@ This repository contains code and models for performing voice similarity search,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/voice-search-classification.git
+   git clone https://github.com/fajemila/Speakrr-AI.git
    ```
 2. Install the required dependencies:
 
