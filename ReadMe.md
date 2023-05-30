@@ -17,5 +17,5 @@ This repository contains code and models for performing voice similarity search,
 2. Install the required dependencies:
 
    ```bash
-    pip install -r requirements.txt
+    pip install -r requirements_.txt
    ```
